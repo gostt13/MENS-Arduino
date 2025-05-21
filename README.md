@@ -2,6 +2,8 @@
 
 This project demonstrates how to use an Arduino ESP32 microcontroller and the MCP4251 digital potentiometer to create a microcurrent therapy device.
 
+> **Note:** This project was built for BE428 at Boston University.
+
 ## Hardware Used
 
 - **ESP32 Development Board**
